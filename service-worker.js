@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/ReactJS-interface-for-mongodb/precache-manifest.b97f05f65ce06b8b5450df9ea7ee7f67.js"
+  "/ReactJS-interface-for-mongodb/precache-manifest.2342aa28b6976b4487fd3c8a2d70a332.js"
 );
 
 self.addEventListener('message', (event) => {

@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "2315a62fe8db4b4ab1fcfee79ffbab07",
+    "revision": "230333b65d79971e1d3aa1026d8e1e4e",
     "url": "/ReactJS-interface-for-mongodb/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/ReactJS-interface-for-mongodb/static/css/2.deffb49d.chunk.css"
   },
   {
-    "revision": "fc7738ab194e322d969e",
+    "revision": "2e92035259634e444f01",
     "url": "/ReactJS-interface-for-mongodb/static/css/main.e48904e5.chunk.css"
   },
   {
@@ -20,8 +20,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/ReactJS-interface-for-mongodb/static/js/2.b42f7959.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "fc7738ab194e322d969e",
-    "url": "/ReactJS-interface-for-mongodb/static/js/main.31600b49.chunk.js"
+    "revision": "2e92035259634e444f01",
+    "url": "/ReactJS-interface-for-mongodb/static/js/main.87a83a42.chunk.js"
   },
   {
     "revision": "c19ffa639fbcd628ea9a",
