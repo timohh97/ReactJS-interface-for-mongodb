@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/ReactJS-interface-for-mongodb/static/css/main.e48904e5.chunk.css",
+    "main.js": "/ReactJS-interface-for-mongodb/static/js/main.31600b49.chunk.js",
+    "main.js.map": "/ReactJS-interface-for-mongodb/static/js/main.31600b49.chunk.js.map",
+    "runtime-main.js": "/ReactJS-interface-for-mongodb/static/js/runtime-main.7811b928.js",
+    "runtime-main.js.map": "/ReactJS-interface-for-mongodb/static/js/runtime-main.7811b928.js.map",
+    "static/css/2.deffb49d.chunk.css": "/ReactJS-interface-for-mongodb/static/css/2.deffb49d.chunk.css",
+    "static/js/2.b42f7959.chunk.js": "/ReactJS-interface-for-mongodb/static/js/2.b42f7959.chunk.js",
+    "static/js/2.b42f7959.chunk.js.map": "/ReactJS-interface-for-mongodb/static/js/2.b42f7959.chunk.js.map",
+    "index.html": "/ReactJS-interface-for-mongodb/index.html",
+    "precache-manifest.b97f05f65ce06b8b5450df9ea7ee7f67.js": "/ReactJS-interface-for-mongodb/precache-manifest.b97f05f65ce06b8b5450df9ea7ee7f67.js",
+    "service-worker.js": "/ReactJS-interface-for-mongodb/service-worker.js",
+    "static/css/2.deffb49d.chunk.css.map": "/ReactJS-interface-for-mongodb/static/css/2.deffb49d.chunk.css.map",
+    "static/css/main.e48904e5.chunk.css.map": "/ReactJS-interface-for-mongodb/static/css/main.e48904e5.chunk.css.map",
+    "static/js/2.b42f7959.chunk.js.LICENSE.txt": "/ReactJS-interface-for-mongodb/static/js/2.b42f7959.chunk.js.LICENSE.txt",
+    "static/media/slick-theme.css": "/ReactJS-interface-for-mongodb/static/media/slick.f97e3bbf.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.7811b928.js",
+    "static/css/2.deffb49d.chunk.css",
+    "static/js/2.b42f7959.chunk.js",
+    "static/css/main.e48904e5.chunk.css",
+    "static/js/main.31600b49.chunk.js"
+  ]
+}
