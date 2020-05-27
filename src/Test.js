@@ -40,7 +40,7 @@ class TestData extends Component {
           </div>
           )
 
-        })}
+        })}<br></br>
       </div>
     </div>
     )

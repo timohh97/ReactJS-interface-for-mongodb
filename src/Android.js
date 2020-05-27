@@ -43,7 +43,7 @@ class Android extends Component {
           </div>
           )
 
-        })}
+        })}<br></br>
       </div>
     </div>
     )

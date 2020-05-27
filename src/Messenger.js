@@ -40,8 +40,8 @@ class Messenger extends Component {
             <p>{JSON.stringify(item)}</p>
           </div>
           )
-
-        })}
+          
+        })}<br></br>
       </div>
     </div>
     )

@@ -41,7 +41,7 @@ class Person extends Component {
         </div>
         )
 
-      })}
+      })}<br></br>
     </div>
 </div>
     )
