@@ -15,23 +15,33 @@ class TestData extends Component {
   }
 
 
+
+
   componentDidMount() {
+
     fetch('https://timoschessl-springboot.herokuapp.com/')
       .then(response => response.json())
       .then(data =>
         this.setState({
-          documents: data
-        }
-        )
 
-      );
+          documents: data
+        })
+
+      )
+
+
+      ;
+
+
   }
+
+
 
   render() {
     console.log(this.state)
     return (<div id="container"><br></br>
-      
-      <PostTest/>
+
+      <PostTest />
       <div><h1 id="header">Test database</h1><br></br>
         {this.state.documents.map(item => {
 

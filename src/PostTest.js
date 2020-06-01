@@ -37,7 +37,6 @@ export default class PostTest extends Component{
 
             <div>
             <form onSubmit={this.submitHandler}>
-               
                 <input type="text" name="firstName" placeholder="First name" value={firstName} onChange={this.changeHandler}></input>
                 <br></br>
                 <input type="text" name="lastName" placeholder="Last name" value={lastName} onChange={this.changeHandler}></input>
