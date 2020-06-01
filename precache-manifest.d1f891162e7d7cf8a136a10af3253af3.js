@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "230333b65d79971e1d3aa1026d8e1e4e",
+    "revision": "7308c2d3b4c6684448ddd6ca7f1da9ec",
     "url": "/ReactJS-interface-for-mongodb/index.html"
   },
   {
